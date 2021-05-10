@@ -1,5 +1,5 @@
+![giphy-preview](https://user-images.githubusercontent.com/52707639/117652227-94d58300-b19b-11eb-8976-55065d1680d1.gif)
 ### Hi there 👋
-
 <!--
 **UMC25/UMC25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

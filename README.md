@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="images/giphy-preview.gif"/></p>
 
 ### Hi there 👋
-<p align="center">
+<p>
 <img align="center" src="images/svgGroup.png"height="40" width="571.28">
 <a href="https://github.com/cloneumc" target="blank"><img align="center" src="images/Emoji-Blitz-Star-Wars-the-Mandalorian-single.png"height="46.55" width="40" /></a>
 </p>

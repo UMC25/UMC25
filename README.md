@@ -3,7 +3,7 @@
 ### Hi there 👋
 <p>
 <img align="center" src="images/svgGroup.png"height="40" width="571.28">
-<a href="https://github.com/cloneumc" target="blank"><img align="center" src="images/maxmax.png"height="48" width="36" /></a>
+<a href="https://github.com/cloneumc" target="blank"><img align="center" src="images/maxmax.png"height="96" width="72" /></a>
 </p>
 
 ## 
